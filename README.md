@@ -65,6 +65,10 @@ This format ensures transparency and makes the system easy to integrate with dow
 *   The system is intentionally kept **lightweight**, avoiding frameworks or unnecessary complexity.
 *   Sample FNOL documents are included only for testing and demonstration; the processor works with any similar FNOL input.
 
+### Requirements
+- Java 8 or higher
+- No external dependencies required
+
 ## How to Run
 
 1.  **Compile the code:**
