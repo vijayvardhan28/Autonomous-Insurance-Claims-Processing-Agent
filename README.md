@@ -74,7 +74,7 @@ This format ensures transparency and makes the system easy to integrate with dow
 2.  **Run the processor with a sample FNOL file:**
    ```cmd
     java FNOLProcessor sample_number.txt
-  ```
+   ```
 ## Conclusion
 This project demonstrates how a simple backend service can:
 *   Process real-world insurance documents
