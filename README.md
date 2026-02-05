@@ -49,14 +49,14 @@ Each routing decision includes a human-readable explanation describing why the c
 
 ## Output Format
 The final output is a structured JSON object containing:
-
+```cmd
 {
   "extractedFields": { ... },
   "missingFields": [ ... ],
   "recommendedRoute": "Fast-track | Manual Review | Investigation Flag | Specialist Queue",
   "reasoning": "Explanation for the routing decision"
 }
-
+```
 This format ensures transparency and makes the system easy to integrate with downstream workflows.
 
 ## Design Decisions
@@ -68,13 +68,13 @@ This format ensures transparency and makes the system easy to integrate with dow
 ## How to Run
 
 1.  **Compile the code:**
-
+    ```cmd
     javac FNOLProcessor.java
-
+    ```
 2.  **Run the processor with a sample FNOL file:**
- 
+   ```cmd
     java FNOLProcessor sample_number.txt
-
+  ```
 ## Conclusion
 This project demonstrates how a simple backend service can:
 *   Process real-world insurance documents
