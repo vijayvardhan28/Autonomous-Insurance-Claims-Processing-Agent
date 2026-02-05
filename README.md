@@ -73,7 +73,16 @@ This format ensures transparency and makes the system easy to integrate with dow
     ```
 2.  **Run the processor with a sample FNOL file:**
    ```cmd
-    java FNOLProcessor sample_number.txt
+    java FNOLProcessor sample_1.txt
+   ```
+   ```cmd
+    java FNOLProcessor sample_2.txt
+   ```
+   ```cmd
+    java FNOLProcessor sample_3.txt
+   ```
+   ```cmd
+    java FNOLProcessor sample_4.txt
    ```
 ## Conclusion
 This project demonstrates how a simple backend service can:
