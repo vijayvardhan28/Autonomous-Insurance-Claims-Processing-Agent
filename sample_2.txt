@@ -1,0 +1,16 @@
+POLICY NUMBER: P-888777666
+NAME OF INSURED: Vijay
+EFFECTIVE DATE: 01/05/2026
+
+DATE OF LOSS: 02/05/2026
+TIME: 10:30 AM
+DESCRIPTION OF ACCIDENT: 
+The driver lost control on a slippery road and hit a guardrail. Minor damage to the front bumper.
+
+DRIVER'S NAME: Vijay
+
+
+MAKE: Honda
+MODEL: Accord
+YEAR: 2022
+ESTIMATE AMOUNT: $23,500

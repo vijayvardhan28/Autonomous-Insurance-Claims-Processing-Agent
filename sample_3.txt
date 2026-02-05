@@ -1,0 +1,17 @@
+POLICY NUMBER: P-888777666
+NAME OF INSURED: Vijay
+EFFECTIVE DATE: 01/05/2026
+
+DATE OF LOSS: 02/05/2026
+TIME: 10:30 AM
+LOCATION OF LOSS: Himathynagar,Hyderabad
+DESCRIPTION OF ACCIDENT: 
+The details of the accident do not fully match the damage observed. The incident appeared staged,
+and there were inconsistencies in the statements provided. Due to these factors, fraud is suspected.
+DRIVER'S NAME: Vijay
+
+V.I.N.: 1HGCM82633A004352
+MAKE: Honda
+MODEL: Accord
+YEAR: 2022
+ESTIMATE AMOUNT: $23,500
